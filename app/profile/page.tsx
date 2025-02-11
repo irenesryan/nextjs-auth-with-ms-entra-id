@@ -1,7 +1,5 @@
 import { auth } from '@/auth';
 import Image from 'next/image';
-import React from 'react'
-import Login from '../login/page';
 import LogoutButton from '@/components/LogoutButton';
 
 async function Profile() {
